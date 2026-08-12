@@ -1,3 +1,4 @@
 BashScripting
 scripts
-poll SCM
+poll SCM test
+Build periodically test
